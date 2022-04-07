@@ -1,5 +1,5 @@
 #---------------------------------------------------------------------------------
-# PACKAGE is the directory where final published files will be placed
+# PACKAGE is the directory where fasdinal published files will be placed
 #---------------------------------------------------------------------------------
 PACKAGE		:=	7zfile
 
